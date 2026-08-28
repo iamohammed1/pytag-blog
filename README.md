@@ -2,6 +2,7 @@
 # Django Blog App 📝
 
 A full-featured blogging platform built with **Django**, featuring tagging, full-text search, comments, and email sharing — designed as a solid foundation for a production-ready blog.
+<img width="1916" height="900" alt="Screenshot 2026-08-28 080807" src="https://github.com/user-attachments/assets/fbee1677-9267-4e79-aa9d-cec91b64f996" />
 
 ## ✨ Features
 
